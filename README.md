@@ -1,16 +1,13 @@
-## Hi there I'm Dimple👋
+# Hello! I'm Dimple 👋
 
-<!--
-**dimple2001/dimple2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **B.Tech Computer Science Engineering** student at **UPES, Dehradun**, with a passion for enhancing my skills in **DBMS (Oracle APEX and MongoDB)**, **C programming**, and **Python**. I am passionate about learning and growing in the tech space and keen to collaborate on projects that help me refine and expand my skills.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+- **C Programming**
+- **Python**
+- **DBMS**: Oracle APEX, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- [Email](#) dimplelulla2004@gmail.com
+
