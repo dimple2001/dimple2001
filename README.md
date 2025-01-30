@@ -5,7 +5,7 @@ I'm a second-year **B.Tech Computer Science Engineering** student at **UPES, Deh
 ## Skills and Technologies
 - **C Programming**
 - **Python**
-- **DBMS**: Oracle APEX, MongoDB
+- **DBMS**: Oracle APEX, MongoDB MySql
 
 ## Connect with Me
 
