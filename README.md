@@ -1,13 +1,24 @@
-# Hello! I'm Dimple 👋
+# 👋 Hi, I'm Dimple  
 
-I'm a second-year **B.Tech Computer Science Engineering** student at **UPES, Dehradun**, with a passion for enhancing my skills in **DBMS**, **C programming**, and **Python**. I am passionate about learning and growing in the tech space and keen to collaborate on projects that help me refine and expand my skills.
+🎓 B.Tech CSE (Specializing in DevOps) student at **UPES, Dehradun**  
+💻 Building projects using Java, Python, React, Flask, Spring Boot, and DevOps tools  
+🌱 Currently exploring **Full-Stack Development, Cloud, and DevOps**  
+🚀 Open to collaborations, internships, and real-world project opportunities  
 
-## Skills and Technologies
-- **C Programming**
-- **Python**
-- **DBMS**: MongoDB & MySQL
+---
 
-## Connect with Me
+## 🛠️ Tech Stack  
 
-- [Email](#) dimplelulla2004@gmail.com
+### **Programming & Databases**  
+C • Python • Java • SQL • MySQL • DBMS fundamentals  
 
+### **Exploring These Skills**  
+- **Frontend Development:** React.js, Tailwind CSS  
+- **Backend Development:** Node.js, REST APIs  
+- **DevOps & Cloud:** Git & GitHub, Jenkins, AWS, Docker, Terraform, SonarQube  
+- **Frameworks:** Spring Boot, Flask  
+
+---
+
+## 📬 Connect with Me  
+📧 **Email:** dimplelulla2004@gmail.com
